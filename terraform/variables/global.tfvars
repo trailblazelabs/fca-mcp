@@ -1,8 +1,0 @@
-project_name      = "parliament-mcp"
-region            = "eu-west-2"
-state_bucket      = "i-dot-ai-tfstate"
-domain_name       = "ai.cabinetoffice.gov.uk"
-team_name         = "i-dot-ai"
-repository_name   = "parliament-mcp"
-deployed_via      = "GitHub_Actions"
-security_level    = "base"
