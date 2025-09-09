@@ -322,9 +322,21 @@ make es_health
 - Verify inference endpoints are created: `fca-mcp init-elasticsearch`
 - Use https://elasticvue.com/ to inspect the Elasticsearch instance
 
-## Contributing
+## Optional: Parliamentary horizon scanning (Enterprise)
 
-Contributions are welcome! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to get started.
+Forward‑looking risk monitoring to anticipate regulatory change:
+
+- HM Treasury and Select Committee hearings (Hansard)
+- Financial Services Acts and Statutory Instruments affecting FCA perimeter
+- Treasury consultations and policy statements
+
+This module is available in the Enterprise edition and integrates with the same MCP interface for proactive alerts and research.
+
+## Contact
+
+**Interested in enterprise access or collaboration?**
+
+📅 **Schedule a call**: [https://cal.com/trailblazelabs](https://cal.com/trailblazelabs)
 
 ## License
 
