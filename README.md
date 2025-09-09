@@ -24,7 +24,7 @@ Financial services firms waste **hours every day** manually searching through fr
 **See the FCA MCP Server in action:**
 
 
-https://github.com/user-attachments/assets/7f7c4354-4d1f-4ed5-99f2-d3bc2ce7ddbe
+
 
 
 
